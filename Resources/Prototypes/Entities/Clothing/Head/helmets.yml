@@ -226,6 +226,9 @@
   - type: HideLayerClothing
     layers:
       Hair: HEAD
+  - type: AddAccentClothing # harmony Change: people wearing knight helmet now have a medieval accent.
+    accent: medieval # end harmony Change
+
 
 #Thunderdome Helmet
 - type: entity
