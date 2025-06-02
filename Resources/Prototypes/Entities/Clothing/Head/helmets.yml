@@ -226,8 +226,9 @@
   - type: HideLayerClothing
     layers:
       Hair: HEAD
-  - type: AddAccentClothing # harmony Change: people wearing knight helmet now have a medieval accent.
-    accent: medieval # end harmony Change
+  - type: AddAccentClothing # begin harmony Change
+    accent: ReplacementAccent
+    replacement: medieval # end harmony Change
 
 
 #Thunderdome Helmet
