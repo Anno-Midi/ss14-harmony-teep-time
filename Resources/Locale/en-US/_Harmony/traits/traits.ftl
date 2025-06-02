@@ -54,3 +54,6 @@ trait-illeism-desc = You seem to only be able to refer to yourself by name.
 
 trait-uncloneable-name = Uncloneable
 trait-uncloneable-desc = You are unable to be cloned
+
+trait-medieval-name = Medieval Accent
+trait-medieval-desc = Hear ye'! you've an outdated fasion of speech.
