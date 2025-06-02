@@ -34,8 +34,8 @@ accent-medieval-replacement-11 = amongst
 accent-medieval-words-12 = have
 accent-medieval-replacement-12 = hath
 
-accent-medieval-words-13 = I
-accent-medieval-replacement-13 = myself
+accent-medieval-words-13 = syndicate
+accent-medieval-replacement-13 = no-good wrong-doer
 
 accent-medieval-words-14 = for
 accent-medieval-replacement-14 = forsooth
@@ -52,14 +52,14 @@ accent-medieval-replacement-17 = mayhaps
 accent-medieval-words-18 = cap
 accent-medieval-replacement-18 = liege
 
-accent-medieval-words-19 = hey cap
-accent-medieval-replacement-19 = my liege
+accent-medieval-words-19 = syndi
+accent-medieval-replacement-19 = no-good wrong-doer
 
 accent-medieval-words-20 = captain
 accent-medieval-replacement-20 = liege
 
-accent-medieval-words-21 = hey captain
-accent-medieval-replacement-21 = my liege
+accent-medieval-words-21 = kitchen
+accent-medieval-replacement-21 = cookery
 
 accent-medieval-words-22 = clown
 accent-medieval-replacement-22 = village idiot
@@ -70,7 +70,7 @@ accent-medieval-replacement-23 = thou silent fool
 accent-medieval-words-24 = musician
 accent-medieval-replacement-24 = bard
 
-accent-medieval-words-25 = HoS
+accent-medieval-words-25 = hos
 accent-medieval-replacement-25 = overseer of the legion of guards
 
 accent-medieval-words-26 = head of security
@@ -109,8 +109,8 @@ accent-medieval-replacement-36 = the treasury
 accent-medieval-words-37 = kill
 accent-medieval-replacement-37 = slay
 
-accent-medieval-words-38 = killed the cap
-accent-medieval-replacement-38 = committed treason
+accent-medieval-words-38 = killed
+accent-medieval-replacement-38 = slain
 
 accent-medieval-words-39 = bar
 accent-medieval-replacement-39 = tavern
@@ -139,7 +139,7 @@ accent-medieval-replacement-46 = besieger
 accent-medieval-words-47 = nuclear operative
 accent-medieval-replacement-47 = besieger
 
-accent-medieval-words-48 = nuclear operative
+accent-medieval-words-48 = nuclear operatives
 accent-medieval-replacement-48 = besiegers
 
 accent-medieval-words-49 = janitor
@@ -184,7 +184,7 @@ accent-medieval-replacement-61 = arcane mage
 accent-medieval-words-62 = dear god
 accent-medieval-replacement-62 = by thy gods
 
-accent-medieval-words-63 = what the fuck
+accent-medieval-words-63 = what
 accent-medieval-replacement-63 = what thine sard
 
 accent-medieval-words-64 = shut up
@@ -193,8 +193,8 @@ accent-medieval-replacement-64 = silence
 accent-medieval-words-65 = go away
 accent-medieval-replacement-65 = begone
 
-accent-medieval-words-66 = killed
-accent-medieval-replacement-66 = slain
+accent-medieval-words-66 = murder
+accent-medieval-replacement-66 = mordre
 
 accent-medieval-words-67 = shuttle
 accent-medieval-replacement-67 = horseless carriage
@@ -249,3 +249,24 @@ accent-medieval-replacement-83 = cook
 
 accent-medieval-words-84 = oh no
 accent-medieval-replacement-84 = alas
+
+accent-medieval-words-85 = traitor
+accent-medieval-replacement-85 = betrayer
+
+accent-medieval-words-86 = good
+accent-medieval-replacement-86 = goode
+
+accent-medieval-words-87 = bad
+accent-medieval-replacement-87 = wicked
+
+accent-medieval-words-88 = it
+accent-medieval-replacement-88 = 'tis
+
+accent-medieval-words-89 = this
+accent-medieval-replacement-89 = this here
+
+accent-medieval-words-90 = but
+accent-medieval-replacement-90 = howbeit
+
+accent-medieval-words-91 = because
+accent-medieval-replacement-91 = forsooth
