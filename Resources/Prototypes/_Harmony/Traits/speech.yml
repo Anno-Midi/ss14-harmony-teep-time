@@ -250,8 +250,8 @@
 
 - type: trait
   id: MedievalAccent
-  name: trait-cowboy-name
-  description: trait-cowboy-desc
+  name: trait-medieval-name
+  description: trait-medieval-desc
   category: SpeechTraits
   cost: 1
   components:
