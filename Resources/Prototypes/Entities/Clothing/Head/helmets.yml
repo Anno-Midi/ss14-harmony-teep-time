@@ -230,7 +230,6 @@
     accent: ReplacementAccent
     replacement: medieval # end harmony Change
 
-
 #Thunderdome Helmet
 - type: entity
   parent: ClothingHeadHelmetBase
